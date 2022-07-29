@@ -34,7 +34,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       <h3 align="center">Trek Guide</h3>
         <br />
         <a target="_blank" href="https://trekguide.netlify.app/">
-            <img src="images/gif1.gif" width="100%" alt="Trek Guide"/>
+            <img src="images/trekguide(1).png" width="100%" alt="Trek Guide"/>
         </a>
         <br />
         <p align="center">
@@ -52,7 +52,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       <h3 align="center">Play Gard Game"</h3>
         <br />
       <a target="_blank" href="https://playcard.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Play Gard Game"/>
+            <img src="images/card" width="100%"  alt="Play Gard Game"/>
         </a>
         <br />
         <p align="center">
@@ -73,7 +73,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       <h3 align="center">AzeezRoheem</h3>
       <br />
         <a target="_blank" href="https://azeezroheem.netlify.app">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/azeezroheem.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -90,7 +90,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://madrasatuttarbiyah.com/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="images/tarbiyah.jpg" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
@@ -103,6 +103,26 @@ See [my website](https://azeezroheem.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Madrasatut Tarbiyah nursery and primary school is citadel of learning aimed at impacting sound Islamic Knowledge and morales as well as sound conventional knowledge.</p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Movie Finder App</h3>
+        <br />
+        <a target="_blank" href="https://app/">
+            <img src="images\movie-finder.jpg" width="100%" alt="Movie Finder App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Azeez1314/movie-finder-app.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
     </td>
   </tr>
 </table>
