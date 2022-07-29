@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/536J.jpg" width="100%">
+<img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="100%">
 
 <p align="center">
   <a href="https://azeezroheem.netlify.app" target="_blank">
@@ -87,7 +87,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Madrasatut Tarbiyah</h3>
         <br />
         <a target="_blank" href="https://madrasatuttarbiyah.com/">
           <img src="images/tarbiyah.jpg" width="100%" alt="Matching Cards"/>
