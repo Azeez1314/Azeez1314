@@ -52,7 +52,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       <h3 align="center">Play Gard Game"</h3>
         <br />
       <a target="_blank" href="https://playcard.netlify.app/">
-            <img src="images/card" width="100%"  alt="Play Gard Game"/>
+            <img src="images/azeezroheem.jpg" width="100%"  alt="Play Gard Game"/>
         </a>
         <br />
         <p align="center">
