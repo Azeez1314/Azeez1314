@@ -34,7 +34,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       <h3 align="center">Trek Guide</h3>
         <br />
         <a target="_blank" href="https://trekguide.netlify.app/">
-            <img src="images/trekguide(1).png" width="100%" alt="Trek Guide"/>
+            <img src="[images/trekguide(1).png](https://github.com/Azeez1314/Azeez1314/blob/main/images/trekguide%20(1).png)" width="100%" alt="Trek Guide"/>
         </a>
         <br />
         <p align="center">
