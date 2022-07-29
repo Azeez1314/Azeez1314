@@ -49,7 +49,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Trek Guide is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Play Gard Game"</h3>
+      <h3 align="center">Play Gard Game</h3>
         <br />
       <a target="_blank" href="https://playcard.netlify.app/">
             <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/card.jpg?raw=true" width="100%"  alt="Play Gard Game"/>
