@@ -29,7 +29,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
-  <tr 
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trek Guide</h3>
         <br />
@@ -49,10 +49,10 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Trek Guide is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Play Gard Game</h3>
+      <h3 align="center">Snippets</h3>
         <br />
-      <a target="_blank" href="https://playcard.netlify.app/">
-            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/card.jpg?raw=true" width="100%"  alt="Play Gard Game"/>
+      <a target="_blank" href="https://snippets.up.railway.app/">
+            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/snippets.png?raw=true" width="100%"  alt="Snippets"/>
         </a>
         <br />
         <p align="center">
@@ -60,11 +60,12 @@ See [my website](https://azeezroheem.netlify.app) for more information!
   <a href="https://github.com/Azeez1314/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://playcard.netlify.app/" target="_blank">
+  <a href="https://snippets.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, & Javascript</strong> - Play Gard Game is a web application that enables card selection among 52 deck. It is built with API. Two players are selected when you click on get deck. If an eventual winner is not selected between Player 1 or 2, a war is declared.</p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, EJS, Bootstrap, JQuery 
+        & MongoDB</strong> - Snippets is a web application that allow book and movie lovers to view and review their favourite books/movies. It is a full-stack application. Allowing users to input, like, delete and view feeds.</p>
     </td>
   </tr>
   
@@ -125,6 +126,24 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
     </td>
   </tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Play Gard Game</h3>
+        <br />
+      <a target="_blank" href="https://playcard.netlify.app/">
+            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/card.jpg?raw=true" width="100%"  alt="Play Gard Game"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Azeez1314/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://playcard.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, & Javascript</strong> - Play Gard Game is a web application that enables card selection among 52 deck. It is built with API. Two players are selected when you click on get deck. If an eventual winner is not selected between Player 1 or 2, a war is declared.</p>
+    </td>
 </table>
 
 
