@@ -125,7 +125,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
     </td>
-  </tr>
   <td width="50%" valign="top">
       <h3 align="center">Play Gard Game</h3>
         <br />
@@ -144,6 +143,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS, & Javascript</strong> - Play Gard Game is a web application that enables card selection among 52 deck. It is built with API. Two players are selected when you click on get deck. If an eventual winner is not selected between Player 1 or 2, a war is declared.</p>
     </td>
+    </tr>
 </table>
 
 
