@@ -30,6 +30,25 @@ See [my website](https://azeezroheem.netlify.app) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Snippets</h3>
+        <br />
+        <a target="_blank" href="https://snippets.up.railway.app/">
+            <img src="https:/https://github.com/Azeez1314/Azeez1314/blob/main/images/snippets.png?raw=true" width="100%" alt="Snippets"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Azeez1314/snippets-upload.git" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://snippets.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, EJS, JQuery, Passport & MongoDB</strong> - Snippets is a web application that allows users to read and review books and movies. It is a full-stack application. Users can upload, like, delete, and made comments on favourite books and movies.</p>
+    </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">Trek Guide</h3>
         <br />
