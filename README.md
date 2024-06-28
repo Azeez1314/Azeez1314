@@ -19,8 +19,7 @@
   </a>
 </p>
 
-Hello! I'm Azeez, a full-stack software engineer. I build websites and web applications; if you have anyone who needs a website or application. 
-Apart from my expertise as a sofware engineer, I also have experience in Banking, Accounting, Finance and Risk Mangement. 
+Hello! I'm Azeez, a full-stack software engineer passionate about creating dynamic websites and web applications. If you or someone you know needs a custom digital solution, I'm here to help. 
 
 
 See [my website](https://azeezroheem.netlify.app) for more information!
@@ -28,7 +27,25 @@ See [my website](https://azeezroheem.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+  <td width="50%" valign="top">
+      <h3 align="center">Quick Tee</h3>
+        <br />
+        <a target="_blank" href="https://teeq.vercel.app/">
+            <img src="images/teeq-img.png" width="100%" alt="Quick Tee Page"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Azeez1314/dev-corner-client" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://teeq.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>MongoDB, Express, React and NodeJS</strong> - Quick Tee: Your Ultimate E-commerce Destination! Shop for your favorite items effortlessly with our full-stack application. Whether you register or dive straight into shopping, Quick Tee has you covered. Admins can seamlessly manage the inventory by creating, updating, and deleting items. Enjoy a smooth and dynamic shopping experience with Quick Tee!</p>
+    </td>
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trek Guide</h3>
@@ -124,24 +141,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
-    </td>
-  <td width="50%" valign="top">
-      <h3 align="center">Play Gard Game</h3>
-        <br />
-      <a target="_blank" href="https://playcard.netlify.app/">
-            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/card.jpg?raw=true" width="100%"  alt="Play Gard Game"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Azeez1314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://playcard.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS, & Javascript</strong> - Play Gard Game is a web application that enables card selection among 52 deck. It is built with API. Two players are selected when you click on get deck. If an eventual winner is not selected between Player 1 or 2, a war is declared.</p>
     </td>
     </tr>
 </table>
