@@ -45,7 +45,25 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       </p>
         <p><strong>MongoDB, Express, React and NodeJS</strong> - Quick Tee: Your Ultimate E-commerce Destination! Shop for your favorite items effortlessly with our full-stack application. Whether you register or dive straight into shopping, Quick Tee has you covered. Admins can seamlessly manage the inventory by creating, updating, and deleting items. Enjoy a smooth and dynamic shopping experience with Quick Tee!</p>
     </td>
-
+  <td width="50%" valign="top">
+      <h3 align="center">Snippets</h3>
+        <br />
+      <a target="_blank" href="https://snippets.up.railway.app/">
+            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/snippets.png?raw=true" width="100%"  alt="Snippets"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Azeez1314/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://snippets.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, EJS, Bootstrap, JQuery 
+        & MongoDB</strong> - Snippets is a web application that allow book and movie lovers to view and review their favourite books/movies. It is a full-stack application. Allowing users to input, like, delete and view feeds.</p>
+    </td>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trek Guide</h3>
@@ -66,23 +84,22 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Trek Guide is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Snippets</h3>
+      <h3 align="center">Movie Finder App</h3>
         <br />
-      <a target="_blank" href="https://snippets.up.railway.app/">
-            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/snippets.png?raw=true" width="100%"  alt="Snippets"/>
+        <a target="_blank" href="https://app/">
+            <img src="images\movie-finder.jpg" width="100%" alt="Movie Finder App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/" target="_blank">
+  <a href="https://github.com/Azeez1314/movie-finder-app.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://snippets.up.railway.app/" target="_blank">
+  </a>  
+  <a href="https://app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, EJS, Bootstrap, JQuery 
-        & MongoDB</strong> - Snippets is a web application that allow book and movie lovers to view and review their favourite books/movies. It is a full-stack application. Allowing users to input, like, delete and view feeds.</p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
     </td>
   </tr>
   
@@ -121,24 +138,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Madrasatut Tarbiyah nursery and primary school is citadel of learning aimed at impacting sound Islamic Knowledge and morales as well as sound conventional knowledge.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Movie Finder App</h3>
-        <br />
-        <a target="_blank" href="https://app/">
-            <img src="images\movie-finder.jpg" width="100%" alt="Movie Finder App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Azeez1314/movie-finder-app.git" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
     </td>
     </tr>
 </table>
