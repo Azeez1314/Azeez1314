@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Hello! I'm Azeez, a full-stack software engineer passionate about creating dynamic websites and web applications. If you or someone you know needs a custom digital solution, I'm here to help. 
+Hello! I'm Azeez, a full-stack software engineer specializing in building dynamic websites and web applications. If you know anyone in need of a digital solution, I'm here to help. 
 
 
 See [my website](https://azeezroheem.netlify.app) for more information!
@@ -27,7 +27,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-<tr>
   <td width="50%" valign="top">
       <h3 align="center">Quick Tee</h3>
         <br />
@@ -47,6 +46,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>MongoDB, Express, React and NodeJS</strong> - Quick Tee: Your Ultimate E-commerce Destination! Shop for your favorite items effortlessly with our full-stack application. Whether you register or dive straight into shopping, Quick Tee has you covered. Admins can seamlessly manage the inventory by creating, updating, and deleting items. Enjoy a smooth and dynamic shopping experience with Quick Tee!</p>
     </td>
 
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Trek Guide</h3>
         <br />
@@ -65,8 +65,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Trek Guide is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
     </td>
-    </tr>
-    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Snippets</h3>
         <br />
@@ -86,7 +84,9 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS, Node.js, Express.js, EJS, Bootstrap, JQuery 
         & MongoDB</strong> - Snippets is a web application that allow book and movie lovers to view and review their favourite books/movies. It is a full-stack application. Allowing users to input, like, delete and view feeds.</p>
     </td>
+  </tr>
   
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">AzeezRoheem</h3>
       <br />
@@ -104,8 +104,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    </tr>
-    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Madrasatut Tarbiyah</h3>
         <br />
@@ -124,7 +122,6 @@ See [my website](https://azeezroheem.netlify.app) for more information!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Madrasatut Tarbiyah nursery and primary school is citadel of learning aimed at impacting sound Islamic Knowledge and morales as well as sound conventional knowledge.</p>
     </td>
-  
     <td width="50%" valign="top">
       <h3 align="center">Movie Finder App</h3>
         <br />
