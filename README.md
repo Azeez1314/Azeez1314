@@ -85,10 +85,10 @@ See [my website](https://azeezroheem.dev) for more information!
         <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Trek Guide is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Movie Finder App</h3>
+      <h3 align="center">Online Learning App</h3>
         <br />
         <a target="_blank" href="https://app/">
-            <img src="images\movie-finder.jpg" width="100%" alt="Movie Finder App"/>
+            <img src="images\online-learning.jpg" width="100%" alt="Online Learning App"/>
         </a>
         <br />
         <p align="center">
