@@ -46,10 +46,10 @@ See [my website](https://azeezroheem.dev) for more information!
         <p><strong>MongoDB, Express, React and NodeJS</strong> - Quick Tee: Your Ultimate E-commerce Destination! Shop for your favorite items effortlessly with our full-stack application. Whether you register or dive straight into shopping, Quick Tee has you covered. Admins can seamlessly manage the inventory by creating, updating, and deleting items. Enjoy a smooth and dynamic shopping experience with Quick Tee!</p>
     </td>
   <td width="50%" valign="top">
-      <h3 align="center">Snippets</h3>
+      <h3 align="center">Nanocrafts</h3>
         <br />
-      <a target="_blank" href="https://snippets.up.railway.app/">
-            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/snippets.png?raw=true" width="100%"  alt="Snippets"/>
+      <a target="_blank" href="https://nanocrafts.xyz/">
+            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/nanocrafts.png?raw=true" width="100%"  alt="Nanocrafts"/>
         </a>
         <br />
         <p align="center">
