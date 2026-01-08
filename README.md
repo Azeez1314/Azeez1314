@@ -1,8 +1,8 @@
 
-<img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/Azeez%20Banner.jfif" width="100%">
+<img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/Azeez%20Banner.png" width="100%">
 
 <p align="center">
-  <a href="https://azeezroheem.netlify.app" target="_blank">
+  <a href="https://azeezroheem.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/azeezroheem" target="_blank">
@@ -19,10 +19,10 @@
   </a>
 </p>
 
-Hello! I'm Azeez, a full-stack software engineer specializing in building dynamic websites and web applications. If you know anyone in need of a digital solution, I'm here to help. 
+Hello! I'm Azeez, a full-stack JavaScript developer specialising in React, Next.js, Node.js and MongoDB, building scalable ecommerce systems and impact-driven digital products. Through freelance work and independent projects, I have delivered measurable business and social impact while contributing to the wider tech ecosystem.
 
 
-See [my website](https://azeezroheem.netlify.app) for more information!
+See [my website](https://azeezroheem.dev) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -54,22 +54,23 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/" target="_blank">
+  <a href="https://github.com/Azeez1314/nanocrafts" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://snippets.up.railway.app/" target="_blank">
+  <a href="https://nanocrafts.xyz/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, EJS, Bootstrap, JQuery 
-        & MongoDB</strong> - Snippets is a web application that allow book and movie lovers to view and review their favourite books/movies. It is a full-stack application. Allowing users to input, like, delete and view feeds.</p>
+        <p><strong>
+          HTML5, CSS3, Javascript, Next.js, Tailwind and Shadcn
+        </strong> - Nanocrafts is a software consulting company. They build websites and web applications. They utilize modern technologies and resources to build applications.</p>
     </td>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Trek Guide</h3>
+      <h3 align="center">Journal App</h3>
         <br />
-        <a target="_blank" href="https://trekguide.netlify.app/">
-            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/trekguide%20(1).png?raw=true" width="100%" alt="Trek Guide"/>
+        <a target="_blank" href="https://pro-app-omega.vercel.app//">
+            <img src="images/journal-app.png" width="100%" alt="Journal App"/>
         </a>
         <br />
         <p align="center">
@@ -92,14 +93,14 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/movie-finder-app.git" target="_blank">
+  <a href="https://github.com/Azeez1314/online-learning.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://app/" target="_blank">
+  <a href="https://online-learning-three-virid.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Movie Finder App is a web application that host the details of movies and the star characters. It is a full-stack application.</p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Online Learning App is a web application where students and teachers interact to study and review lessons. It is a full-stack application.</p>
     </td>
   </tr>
   
@@ -107,19 +108,19 @@ See [my website](https://azeezroheem.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">AzeezRoheem</h3>
       <br />
-        <a target="_blank" href="https://azeezroheem.netlify.app">
-          <img src="images/azeezroheem.jpg" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://azeezroheem.dev">
+          <img src="images/azeez-dev.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/Azeez1314/azeezroheem-portfolio" target="_blank">
+  <a href="https://github.com/Azeez1314/portfolio-new" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://azeezroheem.netlify.app" target="_blank">
+  <a href="https://azeezroheem.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, Javascript, Next.js, Tailwind and Shadcn</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Madrasatut Tarbiyah</h3>
@@ -153,13 +154,13 @@ See [my website](https://azeezroheem.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> -->
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> -->
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
@@ -167,6 +168,8 @@ See [my website](https://azeezroheem.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=cbb148&style=plastic&logo=next"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=cbb148&style=plastic&logo=tailwind"/>
 </p>
 
 
@@ -179,7 +182,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
 
 
 <p align="center">
-  <a href="https://azeezroheem.netlify.app" target="_blank">
+  <a href="https://azeezroheem.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/azeezroheem" target="_blank">
