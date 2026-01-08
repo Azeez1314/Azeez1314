@@ -69,7 +69,7 @@ See [my website](https://azeezroheem.dev) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Journal App</h3>
         <br />
-        <a target="_blank" href="https://pro-app-omega.vercel.app//">
+        <a target="_blank" href="https://pro-app-omega.vercel.app/">
             <img src="images/journal-app.png" width="100%" alt="Journal App"/>
         </a>
         <br />
@@ -78,17 +78,17 @@ See [my website](https://azeezroheem.dev) for more information!
   <a href="https://github.com/Azeez1314/sample-alien-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://trekguide.netlify.app/" target="_blank">
+  <a href="https://pro-app-omega.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Trek Guide is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Insight Journal App is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Online Learning App</h3>
         <br />
-        <a target="_blank" href="https://app/">
-            <img src="images/online-learning.jpg" width="100%" alt="Online Learning App"/>
+        <a target="_blank" href="https://online-learning-three-virid.vercel.app/">
+            <img src="images/online-learning.png" width="100%" alt="Online Learning App"/>
         </a>
         <br />
         <p align="center">
