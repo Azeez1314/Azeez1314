@@ -88,7 +88,7 @@ See [my website](https://azeezroheem.dev) for more information!
       <h3 align="center">Online Learning App</h3>
         <br />
         <a target="_blank" href="https://app/">
-            <img src="images\online-learning.jpg" width="100%" alt="Online Learning App"/>
+            <img src="images/online-learning.jpg" width="100%" alt="Online Learning App"/>
         </a>
         <br />
         <p align="center">
