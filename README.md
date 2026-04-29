@@ -117,7 +117,7 @@ See [my website](https://azeezroheem.dev) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AzeezRoheem</h3>
+      <h3 align="center">Azeez Roheem</h3>
       <br />
         <a target="_blank" href="https://azeezroheem.dev">
           <img src="images/azeez-dev.png" width="100%" alt="Portfolio"/>
