@@ -19,8 +19,17 @@
   </a>
 </p>
 
-Hello! I'm Azeez, a full-stack JavaScript developer specialising in React, Next.js, Node.js and MongoDB, building scalable ecommerce systems and impact-driven digital products. Through freelance work and independent projects, I have delivered measurable business and social impact while contributing to the wider tech ecosystem.
+Hello! I'm Azeez, I am an AI-enabled full stack engineer building intelligent SaaS platforms that help SMEs automate operations and unlock revenue growth.
 
+Over the past year, I have:
+
+• Designed and launched AI-powered workflow systems integrating LLM APIs
+ • Reduced manual resume tailoring time by up to 70% through automation
+ • Built full-stack SaaS products using Next.js, Node.js & MongoDB
+ • Implemented subscription billing systems and production-ready architectures
+ • Automated invoicing and administrative processes for freelancers and SMEs
+
+My focus is on building scalable, revenue-driven systems that transform repetitive business workflows into intelligent, AI-assisted processes.
 
 See [my website](https://azeezroheem.dev) for more information!
 
@@ -28,42 +37,42 @@ See [my website](https://azeezroheem.dev) for more information!
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   <td width="50%" valign="top">
-      <h3 align="center">Quick Tee</h3>
+      <h3 align="center">SakinaMatch</h3>
         <br />
-        <a target="_blank" href="https://teeq.vercel.app/">
-            <img src="images/teeq-img.png" width="100%" alt="Quick Tee Page"/>
+        <a target="_blank" href="https://sakinamatch.com/">
+            <img src="images/sakina.png" width="100%" alt="SaKinaMatch Page"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/dev-corner-client" target="_blank">
+  <a href="https://https://github.com/Azeez1314/sakinah.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://teeq.vercel.app/" target="_blank">
+  <a href="https://sakinamatch.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MongoDB, Express, React and NodeJS</strong> - Quick Tee: Your Ultimate E-commerce Destination! Shop for your favorite items effortlessly with our full-stack application. Whether you register or dive straight into shopping, Quick Tee has you covered. Admins can seamlessly manage the inventory by creating, updating, and deleting items. Enjoy a smooth and dynamic shopping experience with Quick Tee!</p>
+        <p><strong>Next.js, TypeScript, React, Tailwind, Radix, Framer Motion, NextAuth, Postgres, Stripe, Resend, Upstash Redis, Vercel and Cloudinary</strong> - SakinaMatch is exclusively for Muslims seeking Nikah (marriage). Every member is verified by our team. Matches are prepared by a real person — not just an algorithm — and revealed only after your profile is approved.</p>
     </td>
   <td width="50%" valign="top">
-      <h3 align="center">Nanocrafts</h3>
+      <h3 align="center">Resume Tailor</h3>
         <br />
-      <a target="_blank" href="https://nanocrafts.xyz/">
-            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/nanocrafts.png?raw=true" width="100%"  alt="Nanocrafts"/>
+      <a target="_blank" href="https://resumetailor.cv/">
+            <img src="images/resume.png" width="100%"  alt="Resume Tailor"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/nanocrafts" target="_blank">
+  <a href="https://github.com/Azeez1314/resume-ai.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://nanocrafts.xyz/" target="_blank">
+  <a href="https://resumetailor.cv/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>
-          HTML5, CSS3, Javascript, Next.js, Tailwind and Shadcn
-        </strong> - Nanocrafts is a software consulting company. They build websites and web applications. They utilize modern technologies and resources to build applications.</p>
+          React, OpenAI, Next.js, and Tailwind
+        </strong> - Tailor your resume to any job in 30 seconds. Upload your PDF, paste any job description, and get a perfectly tailored resume — AI rewrites your bullets to match exactly what the employer is looking for..</p>
     </td>
   <tr>
     <td width="50%" valign="top">
@@ -82,25 +91,27 @@ See [my website](https://azeezroheem.dev) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Insight Journal App is a web application that host the details of Star Trek characters. It is a full-stack application. Inputing the name of any one among the characters (like Vulcans) will respond with the brief details along with the picture.</p>
+        <p><strong>Next, Tailwind, React, & Postgres</strong> - Insight Journal App is a web application that contain the details of personal journal. It is a full-stack application. Writing and editing the details of personal journal for easy referencing.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Online Learning App</h3>
+     <td width="50%" valign="top">
+      <h3 align="center">Nanocrafts</h3>
         <br />
-        <a target="_blank" href="https://online-learning-three-virid.vercel.app/">
-            <img src="images/online-learning.png" width="100%" alt="Online Learning App"/>
+      <a target="_blank" href="https://nanocrafts.xyz/">
+            <img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/nanocrafts.png?raw=true" width="100%"  alt="Nanocrafts"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/online-learning.git" target="_blank">
+  <a href="https://github.com/Azeez1314/nanocrafts" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://online-learning-three-virid.vercel.app/" target="_blank">
+  </a>
+  <a href="https://nanocrafts.xyz/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Online Learning App is a web application where students and teachers interact to study and review lessons. It is a full-stack application.</p>
+        <p><strong>
+          HTML5, CSS3, Javascript, Next.js, Tailwind and Shadcn
+        </strong> - Nanocrafts is a software consulting company. They build websites and web applications. They utilize modern technologies and resources to build applications.</p>
     </td>
   </tr>
   
@@ -122,23 +133,23 @@ See [my website](https://azeezroheem.dev) for more information!
       </p>
         <p><strong>HTML5, CSS3, Javascript, Next.js, Tailwind and Shadcn</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Madrasatut Tarbiyah</h3>
+     <td width="50%" valign="top">
+      <h3 align="center">Online Learning App</h3>
         <br />
-        <a target="_blank" href="https://madrasatuttarbiyah.com/">
-          <img src="images/tarbiyah.jpg" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://online-learning-three-virid.vercel.app/">
+            <img src="images/online-learning.png" width="100%" alt="Online Learning App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Azeez1314/madrasatt-tarbiyah" target="_blank">
+  <a href="https://github.com/Azeez1314/online-learning.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://madrasatuttarbiyah.com/" target="_blank">
+  </a>  
+  <a href="https://online-learning-three-virid.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Madrasatut Tarbiyah nursery and primary school is citadel of learning aimed at impacting sound Islamic Knowledge and morales as well as sound conventional knowledge.</p>
+        <p><strong>HTML5, CSS, Node.js, Express.js, & MongoDB</strong> - Online Learning App is a web application where students and teachers interact to study and review lessons. It is a full-stack application.</p>
     </td>
     </tr>
 </table>
